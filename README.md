@@ -6,4 +6,3 @@ Git ia a version control system that prevents us from having the "final doc" pro
 
 This is a commit that I am not awarw of, or one that I have forgotten about.
 
-blah blah
